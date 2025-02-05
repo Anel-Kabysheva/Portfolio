@@ -1,0 +1,11 @@
+1,Magzhan,Kairanbay,magzhan.kairanbay@gmail.com,1991
+2,John,See,john.see@gmail.com,1981
+3,Lim,Kim,lim.kim@gmail.com,1997
+4,Andrew,Ng,andrew.ng@gmail.com,1971
+5,Andrey,Karpathy,andrey.karpathy@gmail.com,1981
+6,Jackie,Chan,jeckie.chan@gmail.com,1951
+7,Clarence,Lim,clarence.lim@gmail.com,1985
+8,Ryan,Jack,ryan.jack@gmail.com,1994
+9,Jonattan,Clark,jonattan.clark@gmail.com,2000
+10,Chris,Brown,chris.brown@gmail.com,1989
+11,Justin,Bieber,justin.bieber@gmail.com,1992
